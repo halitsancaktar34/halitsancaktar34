@@ -15,4 +15,5 @@ My enthusiasm for technology and openness to learning allow me to acquire new sk
 - **Email:** halitsancaktar34@gmail.com
 - **Twitter:** https://twitter.com/Hsancaktr
 - **Instagram:** https://www.instagram.com/hsancaktar34/
+
 Feel free to reach out for any questions or job opportunities!
