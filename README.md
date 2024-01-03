@@ -12,9 +12,6 @@ My enthusiasm for technology and openness to learning allow me to acquire new sk
 - **Version Control:** Git, GitHub
 
 ## Contact Information
-- **LinkedIn:** https://www.linkedin.com/in/halitsancaktar/
 - **Email:** halitsancaktar34@gmail.com
-- **Twitter:** https://twitter.com/Hsancaktr
-- **Instagram:** https://www.instagram.com/hsancaktar34/
 
 Feel free to reach out for any questions or job opportunities!
