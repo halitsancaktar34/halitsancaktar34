@@ -7,7 +7,7 @@ My enthusiasm for technology and openness to learning allow me to acquire new sk
 ## My Skills
 - **Languages:** HTML, CSS, JavaScript
 - **Libraries:** React, Redux
-- **Frameworks:** Bootstrap, Tailwind, React-Bootstrap
+- **Frameworks:** Bootstrap, Tailwind, React-Bootstrap, NativeWind
 - **Styles:** SCSS
 - **Version Control:** Git, GitHub
 
