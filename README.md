@@ -1,7 +1,6 @@
 <h1 align="center">Hello 👋, I'm Halit Sancaktar </h1>
 
 <h3 align="left">About Me</h3>
-
 I'm a passionate Frontend Developer who is constantly evolving and dedicated to creating user-friendly and aesthetic web interfaces. 
 My enthusiasm for technology and openness to learning allow me to acquire new skills continuously and stay updated with the latest technologies.
 
@@ -22,7 +21,6 @@ My enthusiasm for technology and openness to learning allow me to acquire new sk
 </div>
 
 <h3 align="left">Statistics:</h3>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=halitsancaktar34&show_icons=true&locale=en&layout=compact" alt="" /></p>
 
 <p>&nbsp;</p>
