@@ -21,7 +21,7 @@ My enthusiasm for technology and openness to learning allow me to acquire new sk
 </div>
 
 <h3 align="left">Statistics:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=halitsancaktar34&show_icons=true&locale=en&layout=compact&theme=dracula" alt="" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=halitsancaktar34&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dracula" alt="" /></p>
 
 <p>&nbsp;</p>
 
