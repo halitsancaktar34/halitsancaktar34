@@ -23,8 +23,6 @@ My enthusiasm for technology and openness to learning allow me to acquire new sk
 <h3 align="left">Statistics:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=halitsancaktar34&show_icons=true&locale=en&layout=compact" alt="" /></p>
 
-<p>&nbsp;</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/halitsancaktar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
