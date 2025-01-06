@@ -39,6 +39,6 @@ My enthusiasm for technology and openness to learning allow me to acquire new sk
 </p>
 
 <h3 align="left">Contact Information:</h3>
-- **Email:** halitsancaktar34@gmail.com
+<p>Email: halitsancaktar34@gmail.com</p>
 
 Feel free to reach out for any questions or job opportunities!
