@@ -1,6 +1,7 @@
-# Hello, I'm Halit Sancaktar
+<h1 align="center">Hello 👋, I'm Halit Sancaktar </h1>
 
-## About Me
+<h3 align="left">About Me</h3>
+
 I'm a passionate Frontend Developer who is constantly evolving and dedicated to creating user-friendly and aesthetic web interfaces. 
 My enthusiasm for technology and openness to learning allow me to acquire new skills continuously and stay updated with the latest technologies.
 
@@ -20,12 +21,16 @@ My enthusiasm for technology and openness to learning allow me to acquire new sk
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"  title="FIREBASE"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> </a>&nbsp;&nbsp;
 </div>
 
+<h3 align="left">Statistics:</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=halitsancaktar34&show_icons=true&locale=en&layout=compact" alt="" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/halitsancaktar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 </p>
 
-## Contact Information
+<h3 align="left">Contact Information:</h3>
 - **Email:** halitsancaktar34@gmail.com
 
 Feel free to reach out for any questions or job opportunities!
