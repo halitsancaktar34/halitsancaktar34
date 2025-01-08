@@ -31,7 +31,6 @@ My enthusiasm for technology and openness to learning allow me to acquire new sk
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
