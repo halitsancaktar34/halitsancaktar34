@@ -38,6 +38,7 @@ My enthusiasm for technology and openness to learning allow me to acquire new sk
 <a href="https://www.linkedin.com/in/halitsancaktar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 </p>
 
+
 <h3 align="left">Contact Information:</h3>
 <p>Email: halitsancaktar34@gmail.com</p>
 
